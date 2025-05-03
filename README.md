@@ -1,3 +1,4 @@
+Rümeysa yıldırım 
 TRmorph (http://www.let.rug.nl/coltekin/trmorph/)
 
 This is the README file for the new version of TRmorph (updated 2015-11)
